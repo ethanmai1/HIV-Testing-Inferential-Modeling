@@ -1,5 +1,7 @@
 # HIV-Testing-Inferential-Modeling
 
+Please check back later for code; it will be published soon!
+
 ## Background
 
 According to a 2018 UNAIDS report, HIV prevalence was estimated at 20.7% among men-who-have-sex-with-men (MSM) in Mexico; the most affected regions were identified in the Southernmost part of the country sharing border with Guatemala. The report also showed that there has been an increase in AIDS-related deaths since 2010 of 133% in Guatemala versus 3% in Mexico. Migration routes have been identified as important corridors of disease transmission, and there is evidence that border regions may be one of the first places new HIV subtypes will be identified. Testing is also required for the treatment cascade (WHO).³ It has been previously hypothesized that MSM who are comfortable with their sex identity, sexual orientation and additional social network factors related to positive mental health may have a favorable effect on HIV testing, thus leading to increased HIV testing and potentially decreased transmission.
